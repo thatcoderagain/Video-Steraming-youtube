@@ -1,0 +1,77 @@
+body {
+	font-family: 'Raleway', sans-serif;
+	background-color: #ecf0f1;
+	min-width: 360px;
+}
+
+textarea {
+	max-width: 100%; 
+	max-height: 100%;
+}
+
+.dropdown-menu {
+	min-width: 0px !important;
+}
+
+.container {
+	padding-left: 0;
+	padding-right: 0;
+}
+
+	#form-box {
+		background-color: #FAFAFA;
+		border-radius: 3px;
+		border: 1px solid #CFD8DC;
+	}
+
+	#suggestion_box {
+		height: auto;
+		width: auto;
+		text-overflow: hidden;
+		position:absolute;
+		z-index: 10;
+		background: #FFFFFF;
+		border: 1px solid #CFD8DC;
+		padding: 10px;
+		padding-bottom: 0px;
+	}
+
+	#subscriptionButtonDiv {
+		max-width:145px;
+		min-width:145px;
+	}
+	
+	.channel_image {
+		height:80px;
+		max-height:80px;
+		min-height:80px;
+		width:80px;
+		max-height:80px;
+		min-height:80px;
+	}
+
+	.user_image {
+		height:48px;max-height:48px;min-height:48px;
+		width:48px;max-height:48px;min-height:48px;
+	}
+
+	.user_name {
+		font-size: 14px;
+		line-height: 14px;
+	}
+
+	.comment_time {
+		font-family: 'Arial';
+		font-size: 11px;
+		line-height: 14px;
+	}
+
+	.comment {
+		font-size: 13px;
+		line-height: 13px;
+	}
+
+	.comment_options *{
+		font-size: 11px;
+		line-height: 11px; 
+	}
