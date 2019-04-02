@@ -12,5 +12,7 @@ Update config.php
 
 ## NOTE for local env
 Must have internet enabled for registration form
+
 Must set up your php mailer in XAMPP to send emails
+
 Must increase maximun file upload limit and maximun execution time by XAMPP
