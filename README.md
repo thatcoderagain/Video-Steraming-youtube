@@ -1,7 +1,7 @@
 # Play
 Video Streaming Web Application
 
-## This project is purely developed using code php and javascript.
+This project is purely developed using code php and javascript.
 
 ## Set Up
 Create database in mysql
